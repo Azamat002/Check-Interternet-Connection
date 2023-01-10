@@ -1,4 +1,6 @@
 # Check-Interternet-Connection
+## Link
+  <a href="https://azamat002.github.io/Check-Interternet-Connection/">Link to webpage </a>
 ## About
 Created a webpage using HTML, CSS, and JavaScript to check and display a notification when the user's device loses its internet connection.
 
